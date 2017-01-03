@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Neo&#39;s Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-12-30T10:41:51.815Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Ding Long</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>乐观锁和悲观锁</title>
+    <link href="http://yoursite.com/2016/12/30/%E4%B9%90%E8%A7%82%E9%94%81%E5%92%8C%E6%82%B2%E8%A7%82%E9%94%81/"/>
+    <id>http://yoursite.com/2016/12/30/乐观锁和悲观锁/</id>
+    <published>2016-12-30T08:13:19.000Z</published>
+    <updated>2016-12-30T10:41:51.815Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h6 id=&quot;悲观锁-Pessimistic-Lock&quot;&gt;&lt;a href=&quot;#悲观锁-Pessimistic-Lock&quot; class=&quot;headerlink&quot; title=&quot;悲观锁(Pessimistic Lock)&quot;&gt;&lt;/a&gt;悲观锁(Pessimistic Lock)&lt;/h6
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+    
+  </entry>
+  
+</feed>
